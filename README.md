@@ -51,35 +51,35 @@ The analysis is performed in **Google Colab** using Python libraries for data ma
 
 **1.** Data Loading
 
-     * Imported CSV file into Pandas DataFrame
+     *  Imported CSV file into Pandas DataFrame
 
 **2.** Data Cleaning
 
-     * Removed unnecessary index columns
+     *   Removed unnecessary index columns
 
-     * Renamed and simplified column headers
+     *   Renamed and simplified column headers
 
-     * Checked and handled null values
+     *   Checked and handled null values
 
 **3.** Exploratory Data Analysis (EDA)
 
-     * Correlation analysis
+     *  Correlation analysis
 
-     * Heatmap visualization
+     *  Heatmap visualization
 
-     * Understanding relationships between feedback variables
+     *  Understanding relationships between feedback variables
 
 **4.** Clustering Analysis
 
-     * Applied K-Means clustering
+     *  Applied K-Means clustering
 
-     * Assigned cluster labels to feedback data
+     *  Assigned cluster labels to feedback data
 
-     * Grouped students based on similar feedback patterns
+     *  Grouped students based on similar feedback patterns
 
 **5.** Visualization
 
-     * Heatmaps and plots for better interpretation of clusters
+     *  Heatmaps and plots for better interpretation of clusters
 
 ## 📊 Key Insights
 

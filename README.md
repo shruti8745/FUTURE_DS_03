@@ -3,107 +3,107 @@
 # 🎓 Student Event Feedback Analysis using Clustering
 ## 📌 Project Overview 
 
-This project focuses on analyzing student event feedback data to uncover satisfaction patterns and meaningful insights. Using data preprocessing, exploratory data analysis (EDA), and clustering techniques, the project identifies trends in student responses and groups similar feedback to help stakeholders improve future events.
+This project focuses on analyzing **student event feedback data** to uncover satisfaction patterns and meaningful insights. Using **data preprocessing, exploratory data analysis (EDA), and clustering techniques**, the project identifies trends in student responses and groups similar feedback to help stakeholders improve future events.
 
-The analysis is performed in Google Colab using Python libraries for data manipulation, visualization, sentiment understanding, and machine learning.
+The analysis is performed in **Google Colab** using Python libraries for data manipulation, visualization, sentiment understanding, and machine learning.
 
 ## 🎯 Objectives
 
-Clean and preprocess student feedback survey data
+* Clean and preprocess student feedback survey data
 
-Analyze feedback trends and satisfaction patterns
+* Analyze feedback trends and satisfaction patterns
 
-Apply clustering (K-Means) to group similar student responses
+* Apply **clustering (K-Means)** to group similar student responses
 
-Visualize insights to support data-driven decision making
+* Visualize insights to support data-driven decision making
 
-Suggest improvements based on discovered patterns
+* Suggest improvements based on discovered patterns
 
 ## 🛠️ Tools & Technologies Used
 
-Python (Google Colab)
+* **Python (Google Colab)**
 
-Pandas & NumPy – Data cleaning and manipulation
+* **Pandas & NumPy** – Data cleaning and manipulation
 
-Seaborn & Matplotlib – Data visualization
+* **Seaborn & Matplotlib** – Data visualization
 
-Scikit-learn – K-Means clustering
+* **Scikit-learn** – K-Means clustering
 
-Text Analysis (basic sentiment indicators)
+* **Text Analysis (basic sentiment indicators)**
 
-CSV data (Google Forms survey responses)
+* **CSV data (Google Forms survey responses)**
 
 ## 📂 Dataset
 
-Source: Student feedback collected via Google Forms
+* Source: **Student feedback collected via Google Forms**
 
-Format: CSV
+* Format: CSV
 
-Data includes:
+* Data includes:
 
-Event-related feedback
+     * Event-related feedback
 
-Satisfaction indicators
+     * Satisfaction indicators
 
-Multiple feedback attributes
+     * Multiple feedback attributes
 
 🔄 Project Workflow
 
-Data Loading
+**1.** Data Loading
 
-Imported CSV file into Pandas DataFrame
+     * Imported CSV file into Pandas DataFrame
 
-Data Cleaning
+**2.** Data Cleaning
 
-Removed unnecessary index columns
+     * Removed unnecessary index columns
 
-Renamed and simplified column headers
+     * Renamed and simplified column headers
 
-Checked and handled null values
+     * Checked and handled null values
 
-Exploratory Data Analysis (EDA)
+**3.** Exploratory Data Analysis (EDA)
 
-Correlation analysis
+     * Correlation analysis
 
-Heatmap visualization
+     * Heatmap visualization
 
-Understanding relationships between feedback variables
+     * Understanding relationships between feedback variables
 
-Clustering Analysis
+**4.** Clustering Analysis
 
-Applied K-Means clustering
+     * Applied K-Means clustering
 
-Assigned cluster labels to feedback data
+     * Assigned cluster labels to feedback data
 
-Grouped students based on similar feedback patterns
+     * Grouped students based on similar feedback patterns
 
-Visualization
+**5.** Visualization
 
-Heatmaps and plots for better interpretation of clusters
+     * Heatmaps and plots for better interpretation of clusters
 
 ## 📊 Key Insights
 
-Student feedback can be grouped into distinct clusters based on satisfaction patterns
+* Student feedback can be grouped into distinct clusters based on satisfaction patterns
 
-Clustering helps identify:
+* Clustering helps identify:
 
-Highly satisfied student groups
+    * Highly satisfied student groups
 
-Moderately satisfied groups
+    * Moderately satisfied groups
 
-Areas needing improvement
+    * Areas needing improvement
 
-Visual analysis supports quick understanding of feedback trends
+* Visual analysis supports quick understanding of feedback trends
 
 ## 🚀 How to Run the Project
 
- **1** Open the notebook in Google Colab or Jupyter Notebook
+**1.**  Open the notebook in **Google Colab** or Jupyter Notebook
 
- Upload the feedback CSV file
+**2.**  Upload the feedback CSV file
 
- Run the notebook cells sequentially
+**3.**  Run the notebook cells sequentially
 
- Review visualizations and cluster outputs
+**4.**  Review visualizations and cluster outputs
 
 ## 📌 Future Improvements
 

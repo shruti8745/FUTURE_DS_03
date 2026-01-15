@@ -41,11 +41,11 @@ The analysis is performed in **Google Colab** using Python libraries for data ma
 
 * Data includes:
 
-     * Event-related feedback
+     *  Event-related feedback
 
-     * Satisfaction indicators
+     *  Satisfaction indicators
 
-     * Multiple feedback attributes
+     *  Multiple feedback attributes
 
 🔄 Project Workflow
 

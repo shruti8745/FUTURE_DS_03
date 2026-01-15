@@ -97,7 +97,7 @@ Visual analysis supports quick understanding of feedback trends
 
 ## 🚀 How to Run the Project
 
- ** 1** Open the notebook in Google Colab or Jupyter Notebook
+ **1** Open the notebook in Google Colab or Jupyter Notebook
 
  Upload the feedback CSV file
 
